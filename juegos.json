@@ -1,0 +1,24 @@
+[
+    {
+      "titulo": "Super Mario Bros.",
+      "plataforma": "Nintendo",
+      "lanzamiento": "13 de septiembre de 1985",
+      "url": "https://es.wikipedia.org/wiki/Super_Mario_Bros.",
+      "precio": 39.99
+    },
+    {
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "plataforma": "Nintendo Switch",
+      "lanzamiento": "3 de marzo de 2017",
+      "url": "https://es.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+      "precio": 59.99
+    },
+    {
+      "titulo": "Portal 2",
+      "plataforma": "PC, Xbox 360, PlayStation 3",
+      "lanzamiento": "19 de abril de 2011",
+      "url": "https://es.wikipedia.org/wiki/Portal_2",
+      "precio": 19.99
+    }
+  ]
+  

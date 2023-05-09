@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Videojuegos</title>
+  <link rel="stylesheet" href="./css/estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Videojuegos</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Carrito</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Juegos</h2>
+      <ul id="lista-juegos">
+        <!-- Aquí se generará dinámicamente la lista de juegos a partir del archivo JSON -->
+      </ul>
+    </section>
+  </main>
+
+  <aside id="carrito">
+    <h2>Carrito de compras</h2>
+    <ul id="lista-carrito">
+      <!-- Aquí se generará dinámicamente la lista de elementos del carrito -->
+    </ul>
+    <p>Total: <span id="total-carrito">$0.00</span></p>
+    <button id="vaciar-carrito">Vaciar carrito</button>
+  </aside>
+
+  <script src="./js/app.js"></script>
+</body>
+</html>
